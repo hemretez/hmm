@@ -1,4 +1,4 @@
-% COMP 437 Assignment 4
+
 %-------------------------------------------------Hazar Emre Tez
 
 %% Variables, data and model
